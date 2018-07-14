@@ -8,7 +8,7 @@ class Header extends Component {
             <nav>
                 <ul>
                     <li>
-                        <a href="#background">S.Soap</a>
+                        <a href="#background">Home</a>
                     </li>
                     <li>
                         <a href="#philosophy">Philosophy</a>
