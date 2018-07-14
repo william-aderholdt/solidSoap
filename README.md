@@ -5,3 +5,5 @@ Solid Soap is a company which had the great idea of producing shampoos and condi
 The most important thing to this company was to keep the website as simple as possible. They wanted an image for the hero-image which expressed clean and fresh.  The colors they wanted were "natural" and "things you would find in nature".  They did not want a very expressive logo, but something simple which would be easily remembered.
 
 Upon completing the project they said, "This website is exactly as I imagined it would be.  From the colors, to the layout.  It is simple, clean, and effective -- just like our product."
+
+This project used React.js, JavaScript, HTML, and CSS/SCSS.
